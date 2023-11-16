@@ -3,4 +3,4 @@ otis
 
 .NET object to object mapper
 
-Otis is currently hosted at http://code.google.com/p/otis-lib/
+Otis is currently hosted at https://code.google.com/archive/p/otis-lib/
